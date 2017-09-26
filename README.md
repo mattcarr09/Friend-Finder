@@ -9,6 +9,6 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 Demo
 
 Friend Finder is deployed to Heroku. Please check it out [https://git.heroku.com/friend-finder-cbc.git
-](here)
+](https://git.heroku.com/friend-finder-cbc.git)
 
 
